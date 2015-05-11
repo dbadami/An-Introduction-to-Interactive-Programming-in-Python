@@ -1,8 +1,0 @@
-Drawing the player's and dealer's hands. Some what of a template from the forums. 
-
-def draw(self, canvas, p):
-    '''draw this hand at p'''
-    for i in range(len(self.hand)):
-        # assign the card at position i to the variable "card"
-        # assign the coordinates of this card to the tuple "pos"
-        card.draw(canvas, pos) # draw this card
