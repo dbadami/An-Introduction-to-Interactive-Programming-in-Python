@@ -1,0 +1,15 @@
+Quiz 6b, Question 7
+Code:
+
+n = 100
+numbers = range(2,n)
+result=[]
+
+while numbers:
+    result.append(numbers[0])
+    num = numbers[0]
+    for number in numbers:
+        if number%num==0:
+            numbers.remove(number)
+            
+print result
