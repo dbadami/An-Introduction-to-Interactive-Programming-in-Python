@@ -18,7 +18,8 @@ This introductory course taught students the basics of interactive
  [Part 2]:https://www.coursera.org/course/interactivepython2
  [Course Syllabus]
  [Course Syllabus]:http://www.codeskulptor.org/coursera/interactivepython.html
- 
+ Projects are completed using an online Python 2.7 interpreter called [Code Skulptor].
+ [Code Skulptor]:http://www.codeskulptor.org/
  
 
 
